@@ -10,5 +10,6 @@ __pycache__
 *.retry
 *.sw[nop]
 .DS_Store
+.idea
 .vscode
 .venv
